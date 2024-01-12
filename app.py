@@ -5,7 +5,7 @@ import pickle
 movies = pickle.load(open("new_movies.pkl", "rb"))
 similarity = pickle.load(open("new_similarity.pkl", "rb"))
 
-movies_list = set(movies["title"].values)
+movies_list = set(movies["title"][0:1750].values)
 movies_list = list(movies_list)
 st.set_page_config(layout="wide")
 
