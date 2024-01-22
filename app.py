@@ -25,7 +25,7 @@ hide_streamlit_style = """
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 selected_movie = st.selectbox(
-    "Curious about movies? Make a choice!", movies_list, index=1
+    "Curious about movies? Make a choice!", movies_list, index=2
 )
 
 
