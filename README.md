@@ -11,11 +11,10 @@ Movie Magnet Hub is a web application that helps users discover new movies based
 - **Algorithms:**
   - CountVectorizer: Converts text data into numerical features.
   - Cosine Similarity: Measures the similarity between movie descriptions or features.
-- **Platform:** GitHub and Streamlit
+- **Platform:** Streamlit
 
 ## Deployment
 
-- **GitHub Repository:** https://github.com/Dharmaseelan7/Movie_Magnet_Hub
 - **Web Application:** https://movieminds.streamlit.app/
 
 ## Usage
