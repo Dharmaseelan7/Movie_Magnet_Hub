@@ -12,6 +12,9 @@ Movie Magnet Hub is a web application that helps users discover new movies based
   - CountVectorizer: Converts text data into numerical features.
   - Cosine Similarity: Measures the similarity between movie descriptions or features.
 - **Platform:** Streamlit
+- **Datasets:**
+  - https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k
+  - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data
 
 ## Deployment
 
